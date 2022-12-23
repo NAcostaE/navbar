@@ -1,0 +1,43 @@
+header{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f7f7f7;
+    font-family: sans-serif;
+    height: 70px;
+}
+.logo{
+    width: 100px;
+    border-radius: 10%;
+}
+.fotoMia{
+   width: 25px;
+   border-radius: 50%;
+}
+.loggin{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+nav>a{
+    margin-left: 15px;
+}
+nav{
+    margin-right: 200px;
+}
+
+form{
+    background-color: white;
+    padding: 5px;
+    border:1px solid #ccc;
+    border-radius: 16px;
+}
+input{
+    font-size: 16px;
+    border-style: none;
+    }
